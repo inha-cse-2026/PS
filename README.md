@@ -1,2 +1,2 @@
 # PS
-Problem Solving for Data Structure class
+Problem Solving for Data Structure Class
